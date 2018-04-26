@@ -1,3 +1,0 @@
-[submodule "qms"]
-	path = qms
-	url = git@github.com:devriff/queueing-management-system.git
